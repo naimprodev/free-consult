@@ -6,5 +6,12 @@
 .background{
     background-color: #F3F3F3;
     height: 100vh;
-    padding: 100px 0 0 0;
+}
+.free-button{
+    border: 0;
+    border-radius: 5px;
+    padding: 21px 30px;
+    background-color: #B68C5A;
+    color: white;
+    font-weight: bold;
 }
